@@ -1,0 +1,62 @@
+All Zeros:
+After Training: 
+------------------------------------
+Training Set Accuracy:  0.45826
+Validation Set Accuracy:  0.4515
+
+All Ones:
+------------------------------------
+After Training:
+------------------------------------
+Training Set Accuracy:  0.1
+Validation Set Accuracy:  0.1
+
+Uniform Distribution:
+------------------------------------
+After Training:
+------------------------------------
+Training Set Accuracy:  0.1
+Validation Set Accuracy:  0.1
+
+Xavier Initialization:
+------------------------------------
+After Training: 
+------------------------------------
+Training Set Accuracy:  0.93948
+Validation Set Accuracy:  0.7572
+
+
+Kaiming Initialization: 
+------------------------------------
+After Training:
+------------------------------------
+Training Set Accuracy:  0.99334
+Validation Set Accuracy:  0.7592
+
+300 Batch Adam Loss: 
+------------------------------------
+After Training: 
+------------------------------------
+Training Set Accuracy:  0.73936
+Validation Set Accuracy:  0.4732
+
+10 Batch Adam Loss:
+------------------------------------
+After Training:
+------------------------------------
+Training Set Accuracy:  0.86498
+Validation Set Accuracy:  0.6993
+
+300 Batch Carlini:
+------------------------------------
+After Training: 
+------------------------------------
+Training Set Accuracy:  0.76872
+Validation Set Accuracy:  0.7123
+
+10 Batch Carlini:
+------------------------------------
+After Training: 
+------------------------------------
+Training Set Accuracy:  0.994
+Validation Set Accuracy:  0.7871
